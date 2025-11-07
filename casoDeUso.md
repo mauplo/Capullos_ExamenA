@@ -68,5 +68,5 @@ https://lucid.app/lucidchart/850ed2f0-adaa-4773-a6ac-d35dd61b781a/edit?view_item
 ## Diagrama de Casos de Uso
 
 ```markdown
-![Diagrama de Casos de Uso](casodeuso.png)
+![Diagrama de Casos de Uso](casoDeUso.png)
 
