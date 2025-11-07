@@ -12,7 +12,7 @@ El proyecto se desarrolló siguiendo principios de *arquitectura combinada basad
 | Archivo / Carpeta | Descripción |
 |------------------|-------------|
 | casoDeUso.md | Contiene el diagrama y la descripción detallada de los *Casos de Uso*, actores, includes y extends. |
-| arquitectura.md | Explica la *arquitectura del sistema*, combinando microservicios y manejo de eventos. |
+| arquitectura.pdf | Explica la *arquitectura del sistema*, combinando microservicios y manejo de eventos. |
 | excelCostos.md | Incluye la *planificación temporal*, costos aproximados y desglose de funcionalidades implementables en 3 meses. |
 | chatbot.md | Documento donde se describe el chatbot o recomendaciones IA utilizadas en el sistema. |
 
