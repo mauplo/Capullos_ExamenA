@@ -9,7 +9,7 @@ El proyecto se desarrolló siguiendo principios de *arquitectura combinada basad
 
 ## 📂 Archivos del Repositorio
 
-| Archivo / Carpeta | Descripción |
+| Archivo | Descripción |
 |------------------|-------------|
 | casoDeUso.md | Contiene el diagrama y la descripción detallada de los *Casos de Uso*, actores, includes y extends. |
 | arquitectura.pdf | Explica la *arquitectura del sistema*, combinando microservicios y manejo de eventos. |
