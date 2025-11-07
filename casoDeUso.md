@@ -1,3 +1,6 @@
+![Diagrama de Casos de Uso](casoDeUso.png)
+
+
 # Caso de Uso
 Mediante lucid modelalamos el sistema de pedidos para la aplicación Cafe ITAM, incorporando recomendaciones basadas en IA y una integración con el sistema institucional para hacer login y cargos en la colegiatura.  
 - El objetivo del sistema es permitir a estudiantes realizar pedidos de manera eficiente y facilitar el control de inventario para cajeros y managers.
@@ -60,13 +63,8 @@ Mediante lucid modelalamos el sistema de pedidos para la aplicación Cafe ITAM, 
 
 ---
 
-## 🔗 LINK
+## 🔗 LINK a lucid
 
 https://lucid.app/lucidchart/850ed2f0-adaa-4773-a6ac-d35dd61b781a/edit?view_items=fdO6JK8BB3a-&page=0_0&invitationId=inv_49ba3e1e-379b-4603-9afd-c902488b980c
 
-
-## Diagrama de Casos de Uso
-
-```markdown
-![Diagrama de Casos de Uso](casoDeUso.png)
 
